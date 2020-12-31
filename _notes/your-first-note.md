@@ -1,5 +1,5 @@
 ---
-title: Your first seed
+title: My first note
 ---
 
 ### Welcome!
@@ -62,7 +62,7 @@ And of course, images look great:
 
 ### Next steps
 
-**If this template is useful to you in any way, consider [donating](https://ko-fi.com/maximevaillancourt) to support my work**. ☕
+**If this template is useful to you in any way, consider [donating](https://ko-fi.com/maximevaillancourt) to support Maxime's work**. ☕
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
